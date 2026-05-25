@@ -24,5 +24,4 @@ Developed an interactive Power BI dashboard to analyze sales performance, custom
 - Tracked monthly revenue trends
 - Monitored profit and sales KPIs
 
-## Screenshots
-(Add dashboard screenshots here)
+
